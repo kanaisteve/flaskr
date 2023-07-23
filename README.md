@@ -4,6 +4,35 @@ This project will walk you through creating a basic blog application called Flas
 
 The content of this project builds upon the information in the official documentation. I highly recommend that you go through [the user guide](https://flask.palletsprojects.com/en/2.3.x/#user-s-guide) and follow along with the [tutorial](https://flask.palletsprojects.com/en/2.3.x/tutorial/). This will give you a chance to become familiar with the vocabulary of Flask. You should understand what views are, the basics of Jinja templating and other fundamental concepts defined for beginners.
 
+<p>
+  <img src="flaskr/static/images/home.png" alt="" />
+</p>
+
+<p>
+  <img src="flaskr/static/images/register.png" alt="" />
+</p>
+
+<p>
+  <img src="flaskr/static/images/login.png" alt="" />
+</p>
+
+<p>
+  <img src="flaskr/static/images/logged_in.png" alt="" />
+</p>
+
+<p>
+  <img src="flaskr/static/images/create_post.png" alt="" />
+</p>
+
+<p>
+  <img src="flaskr/static/images/home_after_creating_post.png" alt="" />
+</p>
+
+<p>
+  <img src="flaskr/static/images/edit_post.png" alt="" />
+</p>
+
+
 ```
 Contents:
 1. Project Layout
@@ -56,34 +85,6 @@ This course walks you the process of creating a basic blog application called Fl
 4. Edit or delete own posts
 You will be able to package and install the application on other computers.
 ```
-
-<p>
-  <img src="flaskr/static/images/home.png" alt="" />
-</p>
-
-<p>
-  <img src="flaskr/static/images/register.png" alt="" />
-</p>
-
-<p>
-  <img src="flaskr/static/images/login.png" alt="" />
-</p>
-
-<p>
-  <img src="flaskr/static/images/logged_in.png" alt="" />
-</p>
-
-<p>
-  <img src="flaskr/static/images/create_post.png" alt="" />
-</p>
-
-<p>
-  <img src="flaskr/static/images/home_after_creating_post.png" alt="" />
-</p>
-
-<p>
-  <img src="flaskr/static/images/edit_post.png" alt="" />
-</p>
 
 
 ## 1. Introduction
